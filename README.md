@@ -23,21 +23,12 @@ where:
 ## Running the Script
 
 ```
-line 28 to 29:      func(x,y)    please write the function of interest
-line 31: range of x 
-line 32: range of y
-line 36: x,y,z=plot_values(x, y, func) after providing the above values, please run this code in order the values x,y,z for the plot
-line 39 to 49: those are needed for the plot
-line 48: you can the change the elevation angle using [elev] and the rotation angle using [azim]
+After Providing the requirements or the function in lines 15,16 and 17, we then run the function at line 19
 ```
 
 ## Exmaple
 
- I have provided an example of the following function $$x^{3}-6xy +y^{3}$$
-
- The results are shown in the image below:
- 
- ![alt text](https://github.com/Anjrini/3D_Plotting/blob/main/figs/fig1.png?raw=true)
+ I have provided an example using the mtcars data frame the comes with R Base
 
 ## License
 
