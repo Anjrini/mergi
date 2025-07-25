@@ -1,4 +1,4 @@
-## merging using R
+## Merging Columns of a Data Frame using R
 
 The implementation of this script is to rearrange the columns of a data frame to a new one based on our needs.
 
