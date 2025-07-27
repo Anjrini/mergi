@@ -23,7 +23,7 @@ where:
 ## Running the Script
 
 ```
-After Providing the requirements or the function in lines 15,16 and 17, we then run the function at line 19
+After Providing the requirements of the function in lines 15,16 and 17, we then run the function at line 19
 ```
 
 ## Exmaple
